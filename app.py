@@ -23,7 +23,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 PROJECT_NAME = "Defence Procurement Query Bot"
 SYSTEM_ID = "DPQB-NADP-2026"
 # !!! REPLACE THE LINE BELOW WITH YOUR GSK KEY !!!
-GROQ_API_KEY = "PASTE_YOUR_GROQ_KEY_HERE" 
+GROQ_API_KEY = "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" 
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("DPQB_CORE")
